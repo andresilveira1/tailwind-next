@@ -4,6 +4,8 @@
 
 ![preview](./.github/preview-web.gif)
 
+<br>
+
 ![preview](./.github/preview-mobile.gif)
 
 <br>
@@ -39,4 +41,4 @@ Here is the link to [Figma](https://www.figma.com/file/MU3H8HfTxX32ukt8ANpan7/Ig
 - Tailwind Variants - Slots API
 - Tailwind Merge
 
-## <h2 align="center"> 👋[Rocketseat](https://www.rocketseat.com.br/)</h2>
+## <h2 align="center"> 👋[Rocketseat](https://www.rocketseat.com.br/){:target="\_blank"}</h2>
