@@ -2,15 +2,17 @@
 
 <br>
 
-![preview](./.github/preview.gif)
+![preview](./.github/preview-web.gif)
+
+![preview](./.github/preview-mobile.gif)
 
 <br>
 
 ## 🖥️ Project
 
-This project has been developed as part of the Tailwind course from Rocketseat. To start our project build, we have installed NextJs and as a part of this framework Tailwind is a default CSS.
+This project has been developed as part of the Tailwind course from Rocketseat. To start project build, we have installed NextJs and as a part of this framework Tailwind is a default CSS.
 
-Here is the link to [Untitled UI](https://tailwind-next-mu.vercel.app/). Note that some functions and tabs may not work, since this is a project to learn about Tailwind.
+Here is the link to [Untitled UI](https://tailwind-next-mu.vercel.app/). Note that some functions and tabs may not work, since this is a project to focus on Tailwind.
 
 ## 🎨 Layout
 
@@ -37,6 +39,4 @@ Here is the link to [Figma](https://www.figma.com/file/MU3H8HfTxX32ukt8ANpan7/Ig
 - Tailwind Variants - Slots API
 - Tailwind Merge
 
----
-
-## 👋 [Rocketseat](https://www.rocketseat.com.br/)
+## <h2 align="center"> 👋[Rocketseat](https://www.rocketseat.com.br/)</h2>
